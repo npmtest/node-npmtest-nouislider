@@ -1,0 +1,61 @@
+<svg height="926" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="926" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-25 08:19:46 +0000   205832 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 08:19:46 +0000      732 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 08:19:46 +0000     3240 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 08:19:46 +0000      496 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 08:19:46 +0000     4688 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 08:19:46 +0000      530 bytes  bower.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 08:19:46 +0000      539 bytes  concat.php</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 08:19:46 +0000     4734 bytes  distribute/nouislider.css</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 08:19:46 +0000    60429 bytes  distribute/nouislider.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 08:19:46 +0000     3498 bytes  distribute/nouislider.min.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 08:19:46 +0000    20408 bytes  distribute/nouislider.min.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 08:19:46 +0000     3024 bytes  package.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 08:19:46 +0000      211 bytes  scripts/dev.sh</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 08:19:46 +0000     1307 bytes  sliders.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 08:19:46 +0000      701 bytes  src/js/constants.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 08:19:46 +0000     3368 bytes  src/js/helpers.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 08:19:46 +0000      566 bytes  src/js/interface.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 08:19:46 +0000      460 bytes  src/js/intro.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 08:19:46 +0000    12508 bytes  src/js/options.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 08:19:46 +0000        4 bytes  src/js/outro.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 08:19:46 +0000     7343 bytes  src/js/pips.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 08:19:46 +0000     7007 bytes  src/js/range.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 08:19:46 +0000    11817 bytes  src/js/scope.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 08:19:46 +0000        3 bytes  src/js/scope_end.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 08:19:46 +0000     7473 bytes  src/js/scope_events.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 08:19:46 +0000     6183 bytes  src/js/scope_helpers.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 08:19:46 +0000      451 bytes  src/js/scope_start.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 08:19:46 +0000     1706 bytes  src/js/structure.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 08:19:46 +0000      784 bytes  src/js/tooltips.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 08:19:46 +0000      103 bytes  src/nouislider.base.less</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 08:19:46 +0000     3534 bytes  src/nouislider.core.less</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 08:19:46 +0000       58 bytes  src/nouislider.less</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 08:19:46 +0000     1738 bytes  src/nouislider.pips.less</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 08:19:46 +0000      546 bytes  src/nouislider.tooltips.less</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 08:19:46 +0000     3959 bytes  tests/addon_pips.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 08:19:46 +0000      512 bytes  tests/iframe/slider.html</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 08:19:46 +0000      181 bytes  tests/iframe/test.html</tspan>
+<tspan x="10" y="618"> 37.  2017-04-25 08:19:46 +0000     1618 bytes  tests/range.html</tspan>
+<tspan x="10" y="634"> 38.  2017-04-25 08:19:46 +0000     2171 bytes  tests/slider.html</tspan>
+<tspan x="10" y="650"> 39.  2017-04-25 08:19:46 +0000     1992 bytes  tests/slider_binding.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-25 08:19:46 +0000     2389 bytes  tests/slider_errors.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-25 08:19:46 +0000     5260 bytes  tests/slider_get-step.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-25 08:19:46 +0000     1047 bytes  tests/slider_limit.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-25 08:19:46 +0000     1287 bytes  tests/slider_non-linear-rtl.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-25 08:19:46 +0000     1031 bytes  tests/slider_padding.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-25 08:19:46 +0000      618 bytes  tests/slider_rtl.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-25 08:19:46 +0000      812 bytes  tests/slider_rtl2.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-25 08:19:46 +0000      951 bytes  tests/slider_rtl_update_options.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-25 08:19:46 +0000     1518 bytes  tests/slider_setting-getting.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-25 08:19:46 +0000      795 bytes  tests/slider_step.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-25 08:19:46 +0000      386 bytes  tests/slider_step_margin.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-25 08:19:46 +0000     3797 bytes  tests/slider_three_or_more_handles.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-25 08:19:46 +0000      548 bytes  tests/slider_unordered.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-25 08:19:46 +0000     1696 bytes  tests/slider_update-numbers.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-25 08:19:46 +0000     1356 bytes  tests/slider_update.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-25 08:19:46 +0000     1719 bytes  tests/slider_values.js</tspan>
+</text>
+</svg>
